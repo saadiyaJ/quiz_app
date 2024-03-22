@@ -4,6 +4,7 @@
 
 ## Introduction
 This is a fun beginner-level Flutter Quiz project around the series "The Office US".
+This app idea helped me learn new flutter widgets, styling, Inspection tool, debugging in flutter, managing data, and strengthen my flutter and dart basics.
 
 ## Features
 1. MCQs.
