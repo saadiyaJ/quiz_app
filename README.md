@@ -1,6 +1,6 @@
 # Flutter quiz_app
 
-<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app.gif" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app.gif" alt="App Demo" width="200" height="370">
 
 ## Introduction
 This is a fun beginner-level Flutter Quiz project around the series "The Office US".
